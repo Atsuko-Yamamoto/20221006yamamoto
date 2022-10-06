@@ -1,0 +1,40 @@
+.container h1{
+  font-size: large;
+  margin: 20px 0 0 0;
+}
+
+.container h2{
+  margin: 20px 0;
+}
+
+.copy{
+  font-size: small;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.blog-image{
+  width: 60vw;
+}
+
+.blog-title{
+  font-weight: bold;
+  font-size: small;
+  margin: 10px 0;
+}
+
+.inquiry-box{
+  display: flex;
+  align-items: center;
+  width: 24vw;
+}
+
+.inquiry{
+  display: inline-block;
+  width: 8vw;
+  padding: 5px 0;
+  margin: 5px 0;
+  text-align: center;
+}
